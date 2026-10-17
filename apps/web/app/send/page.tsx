@@ -1,0 +1,1 @@
+import FeaturePage from "../components/FeaturePage";export default function Page(){return <FeaturePage eyebrow="PLATFORM / SEND SMS" title="Send SMS" description="Compose and send verified business messages once your sender ID and SMS provider are active."/>}
