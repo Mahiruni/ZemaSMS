@@ -1,0 +1,1 @@
+import FeaturePage from "../components/FeaturePage";export default function Page(){return <FeaturePage eyebrow="PLATFORM / CAMPAIGNS" title="Bulk Campaigns" description="Create consent-based messaging campaigns with delivery safeguards."/>}
