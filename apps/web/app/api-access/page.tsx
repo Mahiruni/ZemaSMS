@@ -1,0 +1,1 @@
+import FeaturePage from "../components/FeaturePage";export default function Page(){return <FeaturePage eyebrow="DEVELOPERS / API" title="SMS API" description="Manage API access after provider onboarding and approval."/>}
