@@ -1,0 +1,1 @@
+import FeaturePage from "../components/FeaturePage";export default function Page(){return <FeaturePage eyebrow="PLATFORM / ANALYTICS" title="Delivery Analytics" description="Monitor genuine provider delivery receipts and campaign performance."/>}
