@@ -1,0 +1,1 @@
+import FeaturePage from "../components/FeaturePage";export default function Page(){return <FeaturePage eyebrow="PLATFORM / VERIFICATION" title="OTP Verification" description="Integrate secure one-time passcode delivery."/>}
