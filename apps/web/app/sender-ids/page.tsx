@@ -1,0 +1,1 @@
+import FeaturePage from "../components/FeaturePage";export default function Page(){return <FeaturePage eyebrow="MANAGEMENT / SENDERS" title="Sender IDs" description="Request and manage approved sender identities."/>}
