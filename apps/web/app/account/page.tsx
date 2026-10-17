@@ -1,0 +1,1 @@
+import FeaturePage from "../components/FeaturePage";export default function Page(){return <FeaturePage eyebrow="MANAGEMENT / ACCOUNT" title="Account" description="Review your business profile and onboarding status."/>}
