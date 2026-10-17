@@ -1,0 +1,1 @@
+import FeaturePage from "../components/FeaturePage";export default function Page(){return <FeaturePage eyebrow="DEVELOPERS / DOCUMENTATION" title="API Documentation" description="Learn how to integrate ZemaSMS into your applications."/>}
