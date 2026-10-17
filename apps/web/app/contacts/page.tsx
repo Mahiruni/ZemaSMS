@@ -1,0 +1,1 @@
+import FeaturePage from "../components/FeaturePage";export default function Page(){return <FeaturePage eyebrow="MANAGEMENT / CONTACTS" title="Contacts" description="Manage opted-in recipients and consent records."/>}
